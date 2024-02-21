@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Shyam Kumar
 - 👀 I’m interested in coding and solving complex problem based on dsa
-
 - 🌱 I’m currently learning full Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My Email is shyam2004pkd@gmail.com
 - 😄 Pronouns: My friend and teacher pronouns me "Mr.Shyam"
 - ⚡ Fun fact: I am good in approxely all area but not best in any one.
 
